@@ -1,0 +1,1 @@
+In the Extra Credit opportunity, I created a faster animation that occurs when the h3 tags are clicked, the h3 tag turns to orange when clicked, and the text "Enjoy!!!" is placed after the last div tag. 
